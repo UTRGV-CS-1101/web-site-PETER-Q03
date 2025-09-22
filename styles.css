@@ -1,0 +1,26 @@
+h1 {
+    color:red;
+    font-weight:500
+}
+h2 {
+    color:maroon;
+}
+
+a:hover {
+    color:black;
+    font-weight:900
+
+    
+}
+
+.thisclass {
+    font-size: x-large;
+    color: purple;
+}
+#special{
+    font-style:italic ;
+}
+.funfact{
+    width:10%;
+    text-decoration: line-through
+}
